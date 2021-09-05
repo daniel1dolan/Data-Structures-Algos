@@ -1,0 +1,19 @@
+{
+  "name": "Data-Structures-Algos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daniel1dolan/Data-Structures-Algos.git",
+  "author": "daniel1dolan <daniel.dolan654321@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.10",
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "eslint": "^7.32.0",
+    "jest": "^27.1.0",
+    "ts-jest": "^27.0.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
